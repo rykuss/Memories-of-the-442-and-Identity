@@ -1,0 +1,47 @@
+body 
+{
+	background-color: black;
+}
+
+header
+{
+	padding: 4px;
+	font-weight: 900;
+	font-size: 20px;
+	font-family: Verdana;	
+	color: red;
+	background-color: white;
+	text-align: left;
+}
+
+#question
+{
+	color: white;
+	text-align: center;
+}
+
+.question
+{
+	color: white;
+	text-align: center;
+}
+
+#picture
+{
+	height: 40%;
+    width: 40%;
+    display: block;
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#choiceHolder
+{
+	text-align: center;
+}
+
+.test
+{
+	color: white;
+}

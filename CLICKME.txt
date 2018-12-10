@@ -1,0 +1,14 @@
+Hello! Welcome to Memories of the 442 and identity!
+
+To play, make sure all files have been extracted. That is, make sure it isn't zipped (which is how you downloaded it as).
+Afterwards, open up the "frontPage.html" link directly below me. 
+
+There are 13 total individuals that you can be matched with and there 
+are many different paths you can follow, so make sure to replay!
+
+To replay, simply reopen "frontPage.html". If there seems to be an issue 
+running the game, reopen it in a new window(Not tab).
+
+Have Fun! 
+
+PS: Bibliography is on the page you beat the game
